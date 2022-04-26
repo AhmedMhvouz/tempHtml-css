@@ -122,7 +122,7 @@ body
 	margin-bottom: 2%;
 }
 
-.blog .part:first-child , .blog .part:nth-child(4)
+.blog .part:first-child 
 {
 	margin-left: 0
 }
